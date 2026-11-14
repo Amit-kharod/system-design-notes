@@ -6,13 +6,13 @@ The videos explain each topic step by step in Hindi. These notes are the written
 
 ## Episodes
 
-| Ep | Topic | Notes | PDF |
-|---|---|---|---|
-| 1 | IP Address | [Read](ep01-ip-address/README.md) | [Download](ep01-ip-address/ep01-ip-address.pdf) |
-| 2 | Subnet Mask, Private IP & NAT | coming with the video (Mon 16 Nov) | |
-| 3 | DNS (Domain Name System) | coming with the video | |
+| Ep | Topic | Video | Notes | PDF |
+|---|---|---|---|---|
+| 1 | IP Address | [Watch](https://youtu.be/SKMoZyz1eAI) | [Read](ep01-ip-address/README.md) | [Download](ep01-ip-address/ep01-ip-address.pdf) |
+| 2 | Subnet Mask, Private IP & NAT | Mon 16 Nov, 8:00 PM | coming with the video | |
+| 3 | DNS (Domain Name System) | coming soon | coming with the video | |
 
-More episodes are added as the videos come out.
+More episodes are added as the videos come out. The whole series is in one playlist: [System Design (Hindi) on YouTube](https://www.youtube.com/playlist?list=PLL6fhUZc55nw).
 
 ## What every set of notes has
 

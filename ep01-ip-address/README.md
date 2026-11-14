@@ -4,9 +4,9 @@
 
 These are the notes for Episode 1. The video explains everything step by step in Hindi; these notes follow the same path in simple English, go a little deeper, and are made to be revised quickly before an interview. Boxes marked **Beyond the video** are extra material the video had no time for.
 
-- Video: *link added when the episode is published*
+- Video: [What is an IP Address: System Design for Beginners | Ep 1 (Hindi)](https://youtu.be/SKMoZyz1eAI)
 - PDF of these notes: [ep01-ip-address.pdf](ep01-ip-address.pdf)
-- Next episode: [Ep 2: Subnet Mask, Private IP & NAT](../ep02-subnet-mask-nat/README.md)
+- Next episode: Ep 2, Subnet Mask, Private IP & NAT (video and notes on Mon 16 Nov)
 
 The example addresses come from the home range `192.168.x.x` and from the ranges kept for documentation (`192.0.2.x`, `198.51.100.x`, `203.0.113.x`), never from a real company.
 
