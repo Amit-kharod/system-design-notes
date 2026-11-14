@@ -9,7 +9,7 @@ The videos explain each topic step by step in Hindi. These notes are the written
 | Ep | Topic | Video | Notes | PDF |
 |---|---|---|---|---|
 | 1 | IP Address | [Watch](https://youtu.be/SKMoZyz1eAI) | [Read](ep01-ip-address/README.md) | [Download](ep01-ip-address/ep01-ip-address.pdf) |
-| 2 | Subnet Mask, Private IP & NAT | Mon 16 Nov, 8:00 PM | coming with the video | |
+| 2 | Subnet Mask, Private IP & NAT | Tue 17 Nov, 8:00 PM | [Read](ep02-subnet-mask-nat/README.md) | [Download](ep02-subnet-mask-nat/ep02-subnet-mask-nat.pdf) |
 | 3 | DNS (Domain Name System) | coming soon | coming with the video | |
 
 More episodes are added as the videos come out. The whole series is in one playlist: [System Design (Hindi) on YouTube](https://www.youtube.com/playlist?list=PLL6fhUZc55nw).
@@ -37,7 +37,7 @@ Open an issue with the episode number and the line. Corrections are welcome.
 
 ## Building the PDF
 
-The diagrams are drawn by code, and the PDF is printed from the same Markdown file, so the notes and the PDF never differ. You need Python 3 with the `markdown` package, and Node.js with `playwright-core` and a Chromium (`npm i playwright-core && npx playwright install chromium`). For Ep 1:
+The diagrams are drawn by code, and the PDF is printed from the same Markdown file, so the notes and the PDF never differ. You need Python 3 with the `markdown` package, and Node.js with `playwright-core` and a Chromium (`npm i playwright-core && npx playwright install chromium`). For Ep 1 (for Ep 2, use `diagrams_ep02.py`, the folder `ep02-subnet-mask-nat`, the topic "Subnet Mask, Private IP & NAT" and the number 2):
 
 ```bash
 python3 tools/diagrams_ep01.py
