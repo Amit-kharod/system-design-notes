@@ -1,0 +1,8 @@
+# build step between the Markdown and the PDF
+notes.html
+# publishing notes for Amit, not part of the repository
+PUBLISH.md
+.DS_Store
+__pycache__/
+# Inter + JetBrains Mono (OFL) for the PDF; put inter.woff2 and jbm.woff2 here, not committed
+fonts/
