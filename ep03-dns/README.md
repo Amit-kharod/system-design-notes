@@ -4,7 +4,7 @@
 
 These are the notes for Episode 3. The video explains everything step by step in Hindi; these notes follow the same path in simple English, go a little deeper, and are made to be revised quickly before an interview. Boxes marked **Beyond the video** are extra material the video had no time for.
 
-- Video: *link added when the episode is published*
+- Video: [Who Controls Every Domain on the Internet?](https://youtu.be/TAeHMpvWGFA) (public from Thu 19 Nov, 8:00 PM IST)
 - PDF of these notes: [ep03-dns.pdf](ep03-dns.pdf)
 - Previous episode: [Ep 2: Subnet Mask, Private IP & NAT](../ep02-subnet-mask-nat/README.md) · Next: Ep 4
 
