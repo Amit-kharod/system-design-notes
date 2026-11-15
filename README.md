@@ -1,6 +1,6 @@
-# System Design for Beginners: Notes
+# System Design (Hindi): Notes
 
-Notes for the **System Design for Beginners (Hindi)** video series by **Code Man**.
+Notes for the **System Design (Hindi)** video series by **Code Man**.
 
 The videos explain each topic step by step in Hindi. These notes are the written version: a little deeper, in simple English, with diagrams, worked examples, code and interview questions. Use them to revise after a video or before an interview.
 
@@ -52,7 +52,7 @@ python3 tools/build_pdf.py ep01-ip-address "IP Address" 1
 ```
 
 ```bash
-node tools/print_pdf.mjs ep01-ip-address/notes.html ep01-ip-address/ep01-ip-address.pdf "Code Man · System Design for Beginners · Ep 1: IP Address"
+node tools/print_pdf.mjs ep01-ip-address/notes.html ep01-ip-address/ep01-ip-address.pdf "Code Man · System Design · Ep 1: IP Address"
 ```
 
 For the fonts, put `inter.woff2` and `jbm.woff2` (Inter and JetBrains Mono, both free under the SIL Open Font License) in a `fonts/` folder, or set `NOTES_FONTS`; without them a system font is used. The first command draws the diagrams, the second checks that no text runs off a diagram, out of its box or over other text, the third writes `notes.html`, and the fourth prints the PDF.

@@ -29,7 +29,7 @@ blurb, chips = COVERS.get(EP, ('Everything in the video, with worked examples, d
 
 src = open(os.path.join(ROOT, EP, 'README.md'), encoding='utf-8').read()
 src = re.sub(r'^# .*\n', '', src, count=1)                                   # the cover carries the title
-src = re.sub(r'^\*\*System Design for Beginners.*\n', '', src, flags=re.M)
+src = re.sub(r'^\*\*System Design.*· Code Man\*\*\n', '', src, flags=re.M)
 src = re.sub(r'^- (Video|PDF of these notes|Next episode|Previous episode):.*\n', '', src, flags=re.M)
 contents = [re.sub(r'[`*]', '', h) for h in re.findall(r'^## (.+)$', src, flags=re.M)]
 
@@ -97,7 +97,7 @@ tr:nth-child(even) td{{background:#f7f9fc}} blockquote table td{{background:#fff
 figure{{margin:3mm 0 5mm;page-break-inside:avoid;break-inside:avoid;text-align:center}} figure svg{{width:100%;height:auto}}
 figcaption{{font-size:8.6pt;color:#6b7a94;margin-top:1mm}}
 </style></head><body>
-<section class="cover"><div class="brand">CODE MAN · SYSTEM DESIGN FOR BEGINNERS</div>
+<section class="cover"><div class="brand">CODE MAN · SYSTEM DESIGN</div>
 <div><div class="brand" style="color:#e3262c;margin-bottom:4mm">EPISODE {NUM} · NOTES</div><h1>{html.escape(TOPIC)}<span>.</span></h1>
 <p>{html.escape(blurb)}</p></div>
 <div class="toc"><h4>INSIDE</h4><ul>{toc}</ul></div>
