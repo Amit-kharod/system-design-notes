@@ -4,7 +4,7 @@
 
 These are the notes for Episode 2. The video explains everything step by step in Hindi; these notes follow the same path in simple English, go a little deeper, and are made to be revised quickly before an interview. Boxes marked **Beyond the video** are extra material the video had no time for.
 
-- Video: [Subnet Mask, Private IP & NAT: System Design | Ep 2 (Hindi)](https://youtu.be/loP7URMupgY) (public from Tue 17 Nov, 8:00 PM IST)
+- Video: [Why Lakhs of Phones Have the Exact Same IP Address](https://youtu.be/T-njBlfwpW8) (public from Tue 17 Nov, 8:00 PM IST)
 - PDF of these notes: [ep02-subnet-mask-nat.pdf](ep02-subnet-mask-nat.pdf)
 - Previous episode: [Ep 1: IP Address](../ep01-ip-address/README.md) · Next: Ep 3, DNS (Domain Name System)
 
