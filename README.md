@@ -11,7 +11,7 @@ The videos explain each topic step by step in Hindi. These notes are the written
 | 1 | IP Address | [Watch](https://youtu.be/SKMoZyz1eAI) | [Read](ep01-ip-address/README.md) | [Download](ep01-ip-address/ep01-ip-address.pdf) |
 | 2 | Subnet Mask, Private IP & NAT | [Watch](https://youtu.be/T-njBlfwpW8) (from Tue 17 Nov, 8:00 PM IST) | [Read](ep02-subnet-mask-nat/README.md) | [Download](ep02-subnet-mask-nat/ep02-subnet-mask-nat.pdf) |
 | 3 | DNS (Domain Name System) | [Watch](https://youtu.be/TAeHMpvWGFA) (from Thu 19 Nov, 8:00 PM IST) | [Read](ep03-dns/README.md) | [Download](ep03-dns/ep03-dns.pdf) |
-| 4 | TCP vs UDP | Sat 21 Nov, 8:00 PM IST | [Read](ep04-tcp-udp/README.md) | [Download](ep04-tcp-udp/ep04-tcp-udp.pdf) |
+| 4 | TCP vs UDP | [Watch](https://youtu.be/dI7rIUbGgcw) (from Sat 21 Nov, 8:00 PM IST) | [Read](ep04-tcp-udp/README.md) | [Download](ep04-tcp-udp/ep04-tcp-udp.pdf) |
 
 More episodes are added as the videos come out. The whole series is in one playlist: [System Design (Hindi) on YouTube](https://www.youtube.com/playlist?list=PLL6fhUZc55nw).
 

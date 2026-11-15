@@ -4,7 +4,7 @@
 
 These are the notes for Episode 4. The video explains everything step by step in Hindi; these notes follow the same path in simple English, go a little deeper, and are made to be revised quickly before an interview. Boxes marked **Beyond the video** are extra material the video had no time for.
 
-- Video: *link added when the episode is published*
+- Video: [What Exactly Happens When You Text Your Girlfriend? (TCP vs UDP)](https://youtu.be/dI7rIUbGgcw) (public from Sat 21 Nov, 8:00 PM IST)
 - PDF of these notes: [ep04-tcp-udp.pdf](ep04-tcp-udp.pdf)
 - Previous episode: [Ep 3: DNS (Domain Name System)](../ep03-dns/README.md) · Next: Ep 5
 
